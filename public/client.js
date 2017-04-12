@@ -15,3 +15,5 @@ $('#uploadForm').submit(function(e) {
 
     return false;
 });
+
+$(".content").prepend('<img src="/pictures"/>');
